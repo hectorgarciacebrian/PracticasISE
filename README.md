@@ -10,3 +10,7 @@
 
 ## P1-L1: 8/10/2024
 ![Imagen history1 p1-l2](/img/L1-2.1.png)
+![Imagen history1 p1-l2](/img/P1-L2.2.png)
+![Imagen history1 p1-l2](/img/L1-2.3.png)
+
+
