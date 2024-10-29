@@ -30,9 +30,9 @@
 # Ubuntu:
 ![Imagen history-ubuntu](/img/ubuntuL3.png)
 # Rocky: 
-![Imagen history-rocky](/img/RockyL3.png)
-![Imagen history-rocky](/img/RockyL3.2.png)
-![Imagen history-rocky](/img/RockyL3.3.png)
+![Imagen history-rocky](/img/rockyL3.png)
+![Imagen history-rocky](/img/rockyL3-2.png)
+![Imagen history-rocky](/img/rockyL3-3.png)
 
 
 
