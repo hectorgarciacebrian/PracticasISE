@@ -26,6 +26,18 @@
 ![Imagen history-rocky1](/img/root-history.png)
 ![Imagen history-rocky2](/img/history-root2.png)
 
+## P2-L3: 29/10/2024
+# Ubuntu:
+![Imagen history-ubuntu](/img/ubuntuL3.png)
+# Rocky: 
+![Imagen history-rocky](/img/RockyL3.png)
+![Imagen history-rocky](/img/RockyL3.2.png)
+![Imagen history-rocky](/img/RockyL3.3.png)
+
+
+
+
+
 
 
 
