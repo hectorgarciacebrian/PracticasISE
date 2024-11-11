@@ -34,6 +34,11 @@
 ![Imagen history-rocky](/img/rockyL2-3.2.png)
 ![Imagen history-rocky](/img/rockyL2-3.3.png)
 
+## P2-L2: 5/11/2024
+![Imagen history1](/img/history1-L2-2.png)
+![Imagen history2](/img/history2-L2-2.png)
+
+
 
 
 
