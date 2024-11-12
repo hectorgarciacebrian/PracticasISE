@@ -38,6 +38,10 @@
 ![Imagen history1](/img/history1-L2-2.png)
 ![Imagen history2](/img/history2-L2-2.png)
 
+## P3: 12/11/2024
+
+![Imagen history1](/img/P3-1.png)
+![Imagen history2](/img/P3-2.png)
 
 
 
