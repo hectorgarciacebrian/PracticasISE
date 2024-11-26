@@ -43,6 +43,19 @@
 ![Imagen history1](/img/P3-1.png)
 ![Imagen history2](/img/P3-2.png)
 
+## Continuacion practica 3
+# Ubuntu:
+![Imagen history1](/img/ubuntuP3-1.png)
+![Imagen history1](/img/ubuntuP3-2.png)
+![Imagen history1](/img/ubuntuP3-3.png)
+![Imagen history1](/img/ubuntuP3-4.png)
+![Imagen history1](/img/ubuntuP3-5.png)
+# Rocky:
+![Imagen history1](/img/rockyP3-1.png)
+![Imagen history1](/img/rockyP3-2.png)
+![Imagen history1](/img/rockyP3-3.png)
+
+
 
 
 
