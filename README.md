@@ -55,6 +55,15 @@
 ![Imagen history1](/img/rockyP3-2.png)
 ![Imagen history1](/img/rockyP3-3.png)
 
+## P4: 10/12/2024
+![Imagen history1](/img/php.png)
+![Imagen history1](/img/sudokut.png)
+![Imagen history1](/img/historyP4-1.png)
+![Imagen history1](/img/historyP4-2.png)
+
+
+
+
 
 
 
